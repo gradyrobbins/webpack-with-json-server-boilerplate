@@ -1,12 +1,12 @@
 {
-  "name": "your-app-name-here",
+  "name": "demo1",
   "version": "1.0.0",
-  "description": "",
+  "description": "git clone webpack demo NSS C35/Brenda Long/Steve Brownlee",
   "scripts": {
     "start": "webpack-dev-server --mode development --open"
   },
   "keywords": [],
-  "author": "Your Name Here",
+  "author": "Grady",
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.4.5",
